@@ -8,6 +8,6 @@
 
 ![Alt text](/src/main/resources/dia.png?raw=true "Optional Title")
 
-### Пример работы защиты при однофазном КЗ в фазе B
+### Пример работы защиты
 
 ![Alt text](/src/main/resources/res.png?raw=true "Optional Title")
