@@ -12,6 +12,8 @@ import iec61850.logicalNodes.protection.PTOC;
 import java.util.ArrayList;
 import java.util.List;
 
+// this is just a main file
+
 public class Main {
     private static final List<LN> logicalNodes = new ArrayList<>(); // Лист с логическими узлами
 
