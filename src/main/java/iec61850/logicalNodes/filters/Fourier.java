@@ -6,7 +6,11 @@ import iec61850.logicalNodes.common.Filter;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
+// Created by Artem Sidelev
+// with best regards fo mpei
+
 /** Реализация фильтра фурье */
+
 
 public class Fourier extends Filter {
 
